@@ -1,4 +1,4 @@
-# ML Football Matches.
+# ML Football Matches
 
 ## Project Overview
 
